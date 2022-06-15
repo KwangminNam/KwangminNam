@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kwangmin's&fontSize=90)
+<br>
+<br>
+<br>
 <div>
   👋 👋
 <br/>
@@ -25,5 +29,5 @@
 </div>
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kwangmin's&fontSize=90)
+
 
