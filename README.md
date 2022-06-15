@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Kwangmin's&fontSize=90)
-
 Studying...
 
 <img alt="HTML5"
@@ -14,3 +12,7 @@ Studying...
      src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>   
  <img alt="sass"
      src ="https://img.shields.io/badge/Sass-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kwangmin's&fontSize=90)
+
