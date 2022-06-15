@@ -2,4 +2,4 @@
 
 
 <img alt="이미지명"
-     src ="https://img.shields.io/badge/test-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+     src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
