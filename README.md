@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=97DBAE&height=200&section=header&text=Kwangmin's&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=97DBAE&height=300&section=header&text=Kwangmin's&fontSize=30)
 <br>
 <br>
 <br>
@@ -6,12 +6,10 @@
   👋 👋
 <br/>
 <br/>
-⭐<b>Current Studying...</b>
+<b>Current Studying...</b>
      <br/><br/>
 
 <div>
-      <img alt="HTML5"
-          src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
      <img alt="css3"
           src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
       <img alt="sass"
@@ -24,6 +22,8 @@
           src ="https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=white"/>
      <img alt="next.js"
           src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>   
+          <img alt="node.js"
+          src ="https://img.shields.io/badge/Node.js-0eb640.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>     
 </div>     
 
 </div>
