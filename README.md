@@ -23,8 +23,7 @@
 <br/>
 <br/>
   <b>My name is Kwangmin.</b><br/><br/><br/><br/
-  <b>Thanks for visting my Github.</b><br/>
-  
+
 </div>
 
 
