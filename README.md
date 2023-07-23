@@ -1,20 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=97DBAE&height=100&section=header&text=👋&nbsp;Welcome&nbsp;to&nbsp;my&nbsp;space.&fontSize=30)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwangminnam&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요!+저의+깃허브에+오신걸+환영합니다!+의+텍스트;Thanks+for+visting+my+Github!)](https://git.io/typing-svg)
 <div align=center>
-  👋 👋
-  
+  <b>Welcome👋 👋<br>안녕하세요 😄</b>
 <br/>
 <br/>
-<b>Current Studying</b>
-     <br/><br/>
+    <br>
+    <br>
 
 <div>
-     <img alt="css3"
-          src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
       <img alt="tailwind"
           src ="https://img.shields.io/badge/Tailwind-1572B6.svg?&style=for-the-badge&logo=Tailwind&logoColor=white"/>
-      <img alt="sass"
-          src ="https://img.shields.io/badge/Sass-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>         
      <img alt="javascript"
           src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
       <img alt="typescript"
@@ -26,14 +20,16 @@
           <img alt="node.js"
           src ="https://img.shields.io/badge/Node.js-0eb640.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>     
 </div>     
-
+<br/>
+<br/>
+  <b>My name is Kwangmin.</b><br/><br/><br/><br/
+  <b>Thanks for visting my Github.</b><br/>
+  
 </div>
 
 
-<br>
-<br>
-<br>
-<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwangminnam&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwangminnam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
