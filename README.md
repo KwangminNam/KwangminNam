@@ -22,8 +22,11 @@
 </div>     
 <br/>
 <br/>
-  <b>My name is Kwangmin.</b><br/><br/><br/><br/
 
+  <b>My name is Kwangmin.</b><br/>
+  <b>1993.10.10</b><br/><br/><br/>
+  <b>Intersested in </b><br/><br/>
+  <b>React , Typescript , Next.js </b><br/><br/><br/><br/>
 </div>
 
 
