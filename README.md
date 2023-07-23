@@ -1,11 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요!+저의+깃허브에+오신걸+환영합니다!+의+텍스트;Thanks+for+visting+my+Github!)](https://git.io/typing-svg)
 <div align=center>
-  <b>Welcome👋 👋<br>안녕하세요 😄</b>
+  <b>👋  Welcome 👋<br>안녕하세요! 😄</b>
 <br/>
 <br/>
-    <br>
-    <br>
+    
 
+  <b>My name is Kwangmin.</b><br/>
+  <b>1993.10.10</b><br/><br/><br/>
+  <b>Intersested in </b><br/>
+  
 <div>
       <img alt="tailwind"
           src ="https://img.shields.io/badge/Tailwind-1572B6.svg?&style=for-the-badge&logo=Tailwind&logoColor=white"/>
@@ -19,14 +22,7 @@
           src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>   
           <img alt="node.js"
           src ="https://img.shields.io/badge/Node.js-0eb640.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>     
-</div>     
-<br/>
-<br/>
-
-  <b>My name is Kwangmin.</b><br/>
-  <b>1993.10.10</b><br/><br/><br/>
-  <b>Intersested in </b><br/>
-  <b>React , Typescript , Next.js </b><br/><br/><br/><br/>
+</div>  <br/><br/><br/>
 </div>
 
 
