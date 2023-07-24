@@ -25,13 +25,13 @@
 </div>  <br/><br/><br/>
 </div>
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwangminnam&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwangminnam" alt="Top Langs">
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwangminnam&theme=tokyonight" alt="Top Langs">
+</p>
 <br/>
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwangminnam)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
