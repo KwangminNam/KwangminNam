@@ -7,8 +7,8 @@
 <br/>
     
 
-  <b>Kwangmin Nam🇰🇷</b><br/>🇰🇷
-  <b>1993.10.10</b><br/><br/><br/>
+  <b>🇰🇷 Kwangmin Nam</b><br/>
+  <b>🗓 1993.10.10</b><br/><br/><br/>
   <b>Intersested in </b><br/>
   
 <div>
