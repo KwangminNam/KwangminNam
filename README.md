@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=안녕하세요!+저의+깃허브에+오신걸+환영합니다!+의+텍스트;Thanks+for+visting+my+Github!)](https://git.io/typing-svg" alt="test"/>
 </p>
 <div align=center>
-  <b>👋  Welcome 👋<br>안녕하세요! 😄</b>
+  <b>👋  Welcome 👋😄</b>
 <br/>
 <br/>
     
 
-  <b>My name is Kwangmin.</b><br/>
+  <b>Kwangmin Nam🇰🇷</b><br/>🇰🇷
   <b>1993.10.10</b><br/><br/><br/>
   <b>Intersested in </b><br/>
   
