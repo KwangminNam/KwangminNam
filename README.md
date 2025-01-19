@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋+Thanks+for+visting+my+Github!)](https://git.io/typing-svg" alt="test"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=May+the+code+be+with+you!)](https://git.io/typing-svg" alt="test"/>
 </p>
 <div align=center>
-  <b>👋  Welcome 👋😄</b>
+  <b>May the code be with you</b>
 <br/>
-<br/>
-    
-
-  <b>🇰🇷 Kwangmin Nam</b><br/>
-  <b>🗓 1993.10.10</b><br/><br/><br/>
-  <b>Intersested in </b><br/>
+<br/
   
 <div>
       <img alt="tailwind"
