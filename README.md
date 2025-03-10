@@ -7,8 +7,6 @@
 <br/
   
 <div>
-      <img alt="tailwind"
-          src ="https://img.shields.io/badge/Tailwind-1572B6.svg?&style=for-the-badge&logo=Tailwind&logoColor=white"/>
      <img alt="javascript"
           src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
       <img alt="typescript"
@@ -17,8 +15,6 @@
           src ="https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=white"/>
      <img alt="next.js"
           src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>   
-          <img alt="node.js"
-          src ="https://img.shields.io/badge/Node.js-0eb640.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>     
 </div>  <br/><br/><br/>
 </div>
 
